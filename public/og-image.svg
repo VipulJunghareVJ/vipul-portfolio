@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#020617"/>
+  <rect x="80" y="80" width="1040" height="470" rx="48" fill="url(#g)" opacity="0.18" />
+  <text x="100" y="220" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui" font-size="72" font-weight="700">Vipul Junghare</text>
+  <text x="100" y="310" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui" font-size="44">Data Engineer | ETL, PostgreSQL, PySpark</text>
+  <text x="100" y="400" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui" font-size="28">Reliable pipelines, analytics readiness, and cloud-ready data solutions.</text>
+</svg>
